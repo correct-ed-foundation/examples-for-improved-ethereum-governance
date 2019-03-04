@@ -16,3 +16,8 @@
 > There is no mitigation.
 > * [@phildaian - March 4, 2019](https://twitter.com/phildaian/status/1102583994619752448)
 
+
+## . . . end goal?
+
+> What’ll this look like in the end? An Etherian stance on human rights and best effort strategies to ensure them..?
+> * [@OKDunc - March 3, 2019](https://twitter.com/OKDunc/status/1102323874862190592)
