@@ -9,6 +9,8 @@
 
 ## Responses:
 
+### Bribery in on-chain governance
+
 > I'm happy to get concrete.
 > I'm worried about bribery in on-chain governance representing the interests of the wealthy or connected over the most vulnerable users of these systems.
 > There is no mitigation.
